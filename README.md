@@ -1,4 +1,4 @@
-"""# Python & Data Science — UPJV Amiens
+# Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Imène Lannabi
 **Formation :** L3 Économie / M1 Économie
